@@ -1,0 +1,5 @@
+# Verified with Python 3.12 and the existing CPU environment.
+torch==2.14.0
+torchvision==0.29.0
+matplotlib==3.11.1
+numpy==2.5.2
